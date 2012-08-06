@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'github3test' target in the 'github3test' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
